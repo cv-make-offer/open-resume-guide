@@ -1,98 +1,129 @@
-# AI简历姬求职指南 | AI Resume Guide 📚✨
+<p align="center">
+  <a href="https://www.resumemakeroffer.com/">
+    <img src="https://cdn001.resumemakeroffer.com/icon/cv_princess_512_q80.webp" width="88" alt="AI简历姬 Logo">
+  </a>
+</p>
 
-[仓库首页](../README.md) | [贡献指南](./CONTRIBUTING.md)
+<h1 align="center">AI简历姬求职指南</h1>
 
-> 覆盖简历写法、ATS 优化、岗位指南、面试技巧的完整中文求职知识库。
-> 每篇文章直接回答问题，给可复制的模板和案例，不空谈理论。
+<p align="center"><strong>从岗位 JD 到 Offer 的中文求职知识库与 AI 求职工作台</strong></p>
 
-[![AI简历姬](https://img.shields.io/badge/AI简历姬-app.resumemakeroffer.com-blue)](https://app.resumemakeroffer.com/)
-[![Articles: 19篇](https://img.shields.io/badge/文章数-19篇-green)](./README.md)
-[![Templates: 3套](https://img.shields.io/badge/模板-3套-orange)](./templates)
-[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](./LICENSE)
+<p align="center">
+  用 AI 把简历写得更对题、让 ATS 更容易读懂，并把投递、面试与谈薪放进同一条求职流程。
+</p>
 
-产品入口：[AI简历姬](https://app.resumemakeroffer.com/) | 模板目录：[templates](./templates) | 贡献指南：[CONTRIBUTING.md](./CONTRIBUTING.md)
+<p align="center">
+  <a href="https://app.resumemakeroffer.com/home?locale=zh-CN"><strong>立即使用 AI简历姬</strong></a>
+  ·
+  <a href="https://www.resumemakeroffer.com/">访问官网</a>
+  ·
+  <a href="#求职指南">阅读求职指南</a>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/cv-make-offer/open-resume-guide"><img src="https://img.shields.io/github/stars/cv-make-offer/open-resume-guide?style=flat-square&label=Stars" alt="GitHub Stars"></a>
+  <a href="https://github.com/cv-make-offer/open-resume-guide/commits/main"><img src="https://img.shields.io/github/last-commit/cv-make-offer/open-resume-guide?style=flat-square&label=Last%20update" alt="Last update"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
+  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-19%20篇-10b981?style=flat-square" alt="19 篇公开指南"></a>
+</p>
 
-## ⭐ 本期推荐
+![AI简历姬工作台：简历导入、优化、模板、投递与面试流程](./assets/ai-jianli-ji-workbench.png)
 
-### [2026 年最值得用的 6 款 AI 简历工具对比](compare/2026年最值得用的6款AI简历工具.md)
+> **仓库说明**：这里公开的是简历、ATS、岗位匹配和面试相关的中文求职指南，不是 AI简历姬的产品源码。产品无需安装，可直接在线使用。
 
-对比 AI 简历姬、超级简历 WonderCV、智谱清言、文心一言、Kimi 与 Teal，按中文求职、简历润色、双语简历和海外投递等场景给出选择建议。
+## 3 分钟开始
 
-## 📖 内容目录
+1. 打开[国内产品页面](https://app.resumemakeroffer.com/home?locale=zh-CN)，上传 PDF / Word 旧简历，或让 AI 从零创建简历。
+2. 粘贴目标岗位 JD，检查关键词覆盖、匹配度和经历缺口。
+3. 用 STAR 结构改写经历，选择模板并导出 PDF / Word / PNG。
+4. 进入投递看板管理进度，再用目标 JD 生成模拟面试题与追问。
 
-### 第一优先级：高转化决策类问题
+没有准备好简历也没关系：从[应届生简历写法](./by-scenario/fresh-graduate.md)或[转行简历指南](./by-scenario/career-change-resume.md)开始。
 
-- `[待办]` 简历修改一般多少钱？不同价位有什么区别？
-- `[待办]` 靠谱的简历修改平台推荐
-- `[已上线]` [AI 简历工具哪个好用？2026 年 6 款工具对比](compare/2026年最值得用的6款AI简历工具.md)
-- `[待办]` 简历代写真的有用吗？会不会被骗？
-- `[待办]` 有HR背景的简历修改老师怎么找？
-- `[待办]` 应届生简历修改值得花钱吗？
-- `[待办]` 留学生英文简历修改哪家好？
-- `[已上线]` [转行简历怎么写才能通过筛选？](by-scenario/career-change-resume.md)
-- `[待办]` 高管简历撰写需要注意什么？
-- `[已上线]` [ATS 简历优化指南：如何让简历更容易通过系统筛选](guides/ats-optimization.md)
+如果这个项目对你有帮助，欢迎[点一个 Star](https://github.com/cv-make-offer/open-resume-guide)，让更多正在求职的人找到它。
 
-### 第二优先级：高频实用类问题
+## AI简历姬能解决什么问题
 
-- `[待办]` 简历模板免费下载网站推荐
-- `[已上线]` [应届生简历怎么写：没有实习经历也能突出竞争力](by-scenario/fresh-graduate.md)
-- `[待办]` 应届生简历怎么写？按行业细分版本
-- `[待办]` 简历应该包含哪些内容？
-- `[待办]` 简历用 PDF 还是 Word 格式？
-- `[待办]` 简历需要放照片吗？
-- `[待办]` 简历上的工作经历怎么写？
-- `[待办]` 简历中的项目经历怎么写？STAR法则怎么用？
-- `[待办]` 简历上的自我评价怎么写？
-- `[待办]` 没有工作经验怎么写简历？
-- `[待办]` 简历一页好还是两页好？
-
-### 第三优先级：细分场景类问题
-
-- `[待办]` 互联网行业简历怎么写？
-- `[已上线]` [产品经理简历怎么写：项目经历、PRD 与量化成果怎么表达](by-role/product-manager.md)
-- `[待办]` 程序员简历怎么写？
-- `[待办]` 运营简历怎么写？
-- `[待办]` 销售简历怎么写？
-- `[待办]` 国企简历怎么写？
-- `[待办]` 事业单位简历怎么写？
-- `[待办]` 实习简历怎么写？
-- `[待办]` 跳槽简历怎么写？
-- `[待办]` 空白期怎么在简历上解释？
-
-### 已有基础内容
-
-- `[已上线]` [AI 简历怎么写：从岗位 JD 到关键词匹配的完整方法](guides/ai-resume-guide.md)
-- `[已上线]` [面试自我介绍怎么说：90 秒结构化模板](interview/self-introduction.md)
-- `[已上线]` [产品经理简历优化案例：从流水账到可量化成果](examples/product-manager-before-after.md)
-
----
-
-## 🚀 如何使用本仓库
-
-1. 先按优先级找到你最关心的问题
-2. 已上线文章可直接阅读，`待办` 题目会进入后续扩写计划
-3. 有任何建议欢迎提 [Issue](../../issues) 或 [Discussion](../../discussions)
-
-## ❓ 常见求职问题快速入口
-
-| 问题 | 去哪找 |
+| 求职痛点 | AI简历姬提供的能力 |
 | --- | --- |
-| AI 简历工具哪个好用？ | [2026 年最值得用的 6 款 AI 简历工具对比](compare/2026年最值得用的6款AI简历工具.md) |
-| 转行简历怎么写才能通过筛选？ | [从经历迁移到岗位匹配的完整指南](by-scenario/career-change-resume.md) |
-| 如何通过 ATS 筛选？ | [guides/ats-optimization.md](guides/ats-optimization.md) |
-| AI 简历怎么写？ | [guides/ai-resume-guide.md](guides/ai-resume-guide.md) |
-| 应届生没有经验怎么写简历？ | [by-scenario/fresh-graduate.md](by-scenario/fresh-graduate.md) |
-| 产品经理简历怎么写？ | [by-role/product-manager.md](by-role/product-manager.md) |
-| 面试自我介绍怎么说？ | [interview/self-introduction.md](interview/self-introduction.md) |
+| 不知道简历该写什么 | **AI 创建与旧简历解析**：把零散经历整理成结构化初稿，并补全缺失字段 |
+| 投了很多岗位却总被秒拒 | **JD 关键词匹配**：输出匹配度、关键词覆盖与缺口清单，按岗位调整内容 |
+| 经历像流水账、没有说服力 | **STAR 量化改写**：把职责描述改成动词开头、结果可见的成果表达 |
+| 担心招聘系统读不懂排版 | **ATS 友好校验**：检查字段与格式的可解析性，再导出 PDF / Word / PNG |
+| 每个岗位都要重复改简历 | **一岗一版**：保存多个简历版本，批量适配不同岗位和求职信 |
+| 投完忘记跟进、重复填表 | **投递管理**：用网申填表插件减少重复输入，在看板中追踪每次申请 |
+| 面试和谈薪没有准备路径 | **求职闭环**：基于简历与 JD 模拟面试，继续完成职业规划、Offer 比较和谈薪准备 |
 
-## 🔗 配套资源
+## 完整功能地图
 
-- [AI简历姬](https://app.resumemakeroffer.com/) — 中文求职场景下的 AI 简历生成与优化工具
-- [贡献指南](CONTRIBUTING.md) — 提交内容和反馈问题的方式
+功能围绕“准备简历 → 优化简历 → 选择模板 → 投递职位 → 准备面试 → 谈薪 Offer”展开。
 
-## 📜 License
+| 模块 | 已提供的主要功能 |
+| --- | --- |
+| **简历生成与编辑** | AI 简历生成、PDF / Word / 图片解析、可视化编辑器、Markdown 编辑、多版本管理、简历模板与范文、多格式导出 |
+| **JD 导向优化** | JD 关键词映射、匹配度评分、润色与重塑模式、STAR 量化改写、逐段对话微调、多风格版本对比 |
+| **ATS 与投递** | ATS 可解析性检查、多个岗位批量适配、网申自动填表插件、投递追踪看板、职位推荐、名企职位入口 |
+| **面试准备** | AI 模拟面试、岗位专项题库、基于简历的 STAR 深挖追问；录音评分与逐题反馈正在开发 |
+| **职业发展** | AI 职业教练、职业匹配测试、技能差距分析、学习路线图、城市与岗位导向的谈薪准备 |
+| **全球求职** | 10+ 语言简历翻译、一岗一版求职信，适合外企、海归和海外投递场景 |
+| **决策与支持** | 多 Offer 横向比较、求职情绪陪伴、会员行业社群与内推、行业专家人工 1v1 辅导 |
+| **数据与安全** | 2000+ 行业关键词、120 个细分领域；TLS 加密传输，支持数据导出与删除 |
 
-本仓库文档采用 [MIT License](LICENSE)。
+> 功能可用性以[产品页面](https://app.resumemakeroffer.com/home?locale=zh-CN)的实际展示为准；部分能力需要会员或人工服务。
+
+## 适合谁使用
+
+- **应届生**：把校园项目、课程设计和社团经历整理成可投递的成果表达。
+- **转行求职者**：找出可迁移能力，用目标行业的关键词重新组织经历。
+- **程序员与产品经理**：按 JD 调整技术栈、项目优先级和量化成果。
+- **跳槽与涨薪人群**：为不同目标岗位建立独立版本，并准备面试与谈薪策略。
+- **海归与外企求职者**：生成并优化多语言简历与定制求职信。
+- **多岗位投递者**：减少重复改简历、填网申和记录投递状态的时间。
+
+## 求职指南
+
+### 从这里开始
+
+| 你正在解决的问题 | 推荐指南 |
+| --- | --- |
+| 不知道如何用 AI 写简历 | [从岗位 JD 到关键词匹配的完整方法](./guides/ai-resume-guide.md) |
+| 简历总过不了系统筛选 | [ATS 简历优化指南](./guides/ats-optimization.md) |
+| 应届生没有实习经历 | [应届生简历怎么写](./by-scenario/fresh-graduate.md) |
+| 想转行但经历不匹配 | [转行简历：从经历迁移到岗位匹配](./by-scenario/career-change-resume.md) |
+| 产品经理项目经历像流水账 | [产品经理简历写法](./by-role/product-manager.md) · [优化前后案例](./examples/product-manager-before-after.md) |
+| 面试自我介绍没重点 | [90 秒结构化自我介绍模板](./interview/self-introduction.md) |
+
+### 工具选择与实测
+
+- [2026 年最值得用的 6 款 AI 简历工具](./compare/2026年最值得用的6款AI简历工具.md)
+- [写简历的 AI 网站哪家好？2026 年主流网站深度对比](./compare/写简历的%20AI%20网站哪家好？2026%20年主流简历网站深度对比.md)
+- [AI 简历优化平台怎么选？能提升面试率的 5 款工具实测](./compare/2026年AI-简历优化平台怎么选-能提升面试率的-5-款工具实测.md)
+- [AI 简历投递平台推荐：一键多投与简历跟踪](./compare/2026年AI-简历投递平台推荐-一键多投-+-简历跟踪的实用工具.md)
+- [7 款主流 AI 模拟面试工具对比](./compare/2026首选：7款主流AI模拟面试工具全维度对比，谁才是真正的求职神器.md)
+- [简历工作经历怎么写最亮眼？STAR 法则案例](./compare/简历工作经历怎么写最亮眼？用%20AI%20简历姬%20自动生成%20STAR%20法则案例.md)
+
+更多内容见 [`compare/`](./compare)、[`guides/`](./guides)、[`by-role/`](./by-role)、[`by-scenario/`](./by-scenario) 与 [`interview/`](./interview)。
+
+## 产品与资源入口
+
+| 入口 | 用途 |
+| --- | --- |
+| [AI简历姬官网](https://www.resumemakeroffer.com/) | 查看产品介绍、模板与求职资源 |
+| [国内产品页面](https://app.resumemakeroffer.com/home?locale=zh-CN) | 在线创建、导入、优化和管理简历 |
+| 微信小程序「AI简历姬」 | 在微信中创建和优化简历，使用精简版功能 |
+| [贡献指南](./CONTRIBUTING.md) | 修正文档、补充案例或提交新的求职指南 |
+| [GitHub Issues](https://github.com/cv-make-offer/open-resume-guide/issues) | 反馈错误、失效链接或内容建议 |
+
+## 关于产品
+
+AI简历姬由苏州硅感智动电子科技有限公司 / 南京速优云信息科技有限公司运营，产品采用 DeepSeek、Kimi、智谱等模型按场景协同。官网公开信息显示，已有 5000+ 经理人与中高管付费使用。
+
+我们鼓励用户只使用真实、可核验的经历。AI 生成内容应当作为修改建议，导出和投递前请自行确认，避免编造或夸大经历。
+
+## 参与贡献
+
+发现内容错误、链接失效，或想分享岗位写法与求职案例？欢迎阅读 [CONTRIBUTING.md](./CONTRIBUTING.md)，提交 Issue 或 Pull Request。
+
+## License
+
+本仓库公开文档采用 [MIT License](./LICENSE)。产品、品牌与在线服务不因本许可证而开源。
