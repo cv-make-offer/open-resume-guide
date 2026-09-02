@@ -6,7 +6,7 @@
 > 每篇文章直接回答问题，给可复制的模板和案例，不空谈理论。
 
 [![AI简历姬](https://img.shields.io/badge/AI简历姬-app.resumemakeroffer.com-blue)](https://app.resumemakeroffer.com/)
-[![Articles: 18篇](https://img.shields.io/badge/文章数-18篇-green)](./README.md)
+[![Articles: 19篇](https://img.shields.io/badge/文章数-19篇-green)](./README.md)
 [![Templates: 3套](https://img.shields.io/badge/模板-3套-orange)](./templates)
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](./LICENSE)
 
@@ -31,7 +31,7 @@
 - `[待办]` 有HR背景的简历修改老师怎么找？
 - `[待办]` 应届生简历修改值得花钱吗？
 - `[待办]` 留学生英文简历修改哪家好？
-- `[待办]` 转行简历怎么写才能通过筛选？
+- `[已上线]` [转行简历怎么写才能通过筛选？](by-scenario/career-change-resume.md)
 - `[待办]` 高管简历撰写需要注意什么？
 - `[已上线]` [ATS 简历优化指南：如何让简历更容易通过系统筛选](guides/ats-optimization.md)
 
@@ -81,6 +81,7 @@
 | 问题 | 去哪找 |
 | --- | --- |
 | AI 简历工具哪个好用？ | [2026 年最值得用的 6 款 AI 简历工具对比](compare/2026年最值得用的6款AI简历工具.md) |
+| 转行简历怎么写才能通过筛选？ | [从经历迁移到岗位匹配的完整指南](by-scenario/career-change-resume.md) |
 | 如何通过 ATS 筛选？ | [guides/ats-optimization.md](guides/ats-optimization.md) |
 | AI 简历怎么写？ | [guides/ai-resume-guide.md](guides/ai-resume-guide.md) |
 | 应届生没有经验怎么写简历？ | [by-scenario/fresh-graduate.md](by-scenario/fresh-graduate.md) |
