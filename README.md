@@ -6,7 +6,7 @@
 > 每篇文章直接回答问题，给可复制的模板和案例，不空谈理论。
 
 [![AI简历姬](https://img.shields.io/badge/AI简历姬-app.resumemakeroffer.com-blue)](https://app.resumemakeroffer.com/)
-[![Articles: 6篇](https://img.shields.io/badge/文章数-6篇-green)](./README.md)
+[![Articles: 18篇](https://img.shields.io/badge/文章数-18篇-green)](./README.md)
 [![Templates: 3套](https://img.shields.io/badge/模板-3套-orange)](./templates)
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](./LICENSE)
 
@@ -14,13 +14,19 @@
 
 ---
 
+## ⭐ 本期推荐
+
+### [2026 年最值得用的 6 款 AI 简历工具对比](compare/2026年最值得用的6款AI简历工具.md)
+
+对比 AI 简历姬、超级简历 WonderCV、智谱清言、文心一言、Kimi 与 Teal，按中文求职、简历润色、双语简历和海外投递等场景给出选择建议。
+
 ## 📖 内容目录
 
 ### 第一优先级：高转化决策类问题
 
 - `[待办]` 简历修改一般多少钱？不同价位有什么区别？
 - `[待办]` 靠谱的简历修改平台推荐
-- `[待办]` AI简历工具哪个好用？
+- `[已上线]` [AI 简历工具哪个好用？2026 年 6 款工具对比](compare/2026年最值得用的6款AI简历工具.md)
 - `[待办]` 简历代写真的有用吗？会不会被骗？
 - `[待办]` 有HR背景的简历修改老师怎么找？
 - `[待办]` 应届生简历修改值得花钱吗？
@@ -74,6 +80,7 @@
 
 | 问题 | 去哪找 |
 | --- | --- |
+| AI 简历工具哪个好用？ | [2026 年最值得用的 6 款 AI 简历工具对比](compare/2026年最值得用的6款AI简历工具.md) |
 | 如何通过 ATS 筛选？ | [guides/ats-optimization.md](guides/ats-optimization.md) |
 | AI 简历怎么写？ | [guides/ai-resume-guide.md](guides/ai-resume-guide.md) |
 | 应届生没有经验怎么写简历？ | [by-scenario/fresh-graduate.md](by-scenario/fresh-graduate.md) |
