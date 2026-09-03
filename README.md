@@ -24,7 +24,7 @@
   <a href="https://github.com/cv-make-offer/open-resume-guide"><img src="https://img.shields.io/github/stars/cv-make-offer/open-resume-guide?style=flat-square&label=Stars" alt="GitHub Stars"></a>
   <a href="https://github.com/cv-make-offer/open-resume-guide/commits/main"><img src="https://img.shields.io/github/last-commit/cv-make-offer/open-resume-guide?style=flat-square&label=Last%20update" alt="Last update"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
-  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-19%20篇-10b981?style=flat-square" alt="19 篇公开指南"></a>
+  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-21%20篇-10b981?style=flat-square" alt="21 篇公开指南"></a>
 </p>
 
 ![AI简历姬工作台：简历导入、优化、模板、投递与面试流程](./assets/ai-jianli-ji-workbench.png)
@@ -86,6 +86,7 @@
 
 | 你正在解决的问题 | 推荐指南 |
 | --- | --- |
+| 零基础，不知道简历怎么做 | [2026 年零基础上手 7 步完整教程](./guides/resume-building-7-step-guide.md) |
 | 不知道如何用 AI 写简历 | [从岗位 JD 到关键词匹配的完整方法](./guides/ai-resume-guide.md) |
 | 简历总过不了系统筛选 | [ATS 简历优化指南](./guides/ats-optimization.md) |
 | 应届生没有实习经历 | [应届生简历怎么写](./by-scenario/fresh-graduate.md) |
@@ -95,6 +96,7 @@
 
 ### 工具选择与实测
 
+- [在线简历制作 vs 简历模板下载：怎么选？](./compare/2026年在线简历制作vs简历模板下载.md)
 - [2026 年最值得用的 6 款 AI 简历工具](./compare/2026年最值得用的6款AI简历工具.md)
 - [写简历的 AI 网站哪家好？2026 年主流网站深度对比](./compare/写简历的%20AI%20网站哪家好？2026%20年主流简历网站深度对比.md)
 - [AI 简历优化平台怎么选？能提升面试率的 5 款工具实测](./compare/2026年AI-简历优化平台怎么选-能提升面试率的-5-款工具实测.md)
