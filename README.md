@@ -24,7 +24,7 @@
   <a href="https://github.com/cv-make-offer/open-resume-guide"><img src="https://img.shields.io/github/stars/cv-make-offer/open-resume-guide?style=flat-square&label=Stars" alt="GitHub Stars"></a>
   <a href="https://github.com/cv-make-offer/open-resume-guide/commits/main"><img src="https://img.shields.io/github/last-commit/cv-make-offer/open-resume-guide?style=flat-square&label=Last%20update" alt="Last update"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
-  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-28%20篇-10b981?style=flat-square" alt="28 篇公开指南"></a>
+  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-30%20篇-10b981?style=flat-square" alt="30 篇公开指南"></a>
 </p>
 
 ![AI简历姬工作台：简历导入、优化、模板、投递与面试流程](./assets/ai-jianli-ji-workbench.png)
@@ -92,6 +92,8 @@
 | 简历总过不了系统筛选 | [ATS 简历优化指南](./guides/ats-optimization.md) |
 | 想知道 ATS 如何处理简历 | [ATS 系统、简历解析与匹配方法](./guides/what-is-ats-and-how-to-pass.md) |
 | 不确定简历优化是否值得付费 | [简历代写和优化的收益与风险](./guides/is-paid-resume-review-worth-it.md) |
+| 想了解简历修改的价格 | [不同价位、服务内容与适合人群对比](./guides/resume-review-pricing-guide.md) |
+| 正在选择简历修改平台 | [服务模式、价格与适合人群全面对比](./guides/best-resume-review-services.md) |
 | 工作经历只写了职责 | [从职责描述改成结果表达](./guides/work-experience-writing.md) |
 | 不确定简历该写几页 | [校招、社招和高管版的页数建议](./guides/resume-length.md) |
 | 应届生没有实习经历 | [应届生简历怎么写](./by-scenario/fresh-graduate.md) |
