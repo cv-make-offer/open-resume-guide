@@ -18,13 +18,15 @@
   <a href="https://www.resumemakeroffer.com/">访问官网</a>
   ·
   <a href="#求职指南">阅读求职指南</a>
+  ·
+  <a href="./articles/README.md">浏览 54 篇求职文章</a>
 </p>
 
 <p align="center">
   <a href="https://github.com/cv-make-offer/open-resume-guide"><img src="https://img.shields.io/github/stars/cv-make-offer/open-resume-guide?style=flat-square&label=Stars" alt="GitHub Stars"></a>
   <a href="https://github.com/cv-make-offer/open-resume-guide/commits/main"><img src="https://img.shields.io/github/last-commit/cv-make-offer/open-resume-guide?style=flat-square&label=Last%20update" alt="Last update"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
-  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-31%20篇-10b981?style=flat-square" alt="31 篇公开指南"></a>
+  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-85%20篇-10b981?style=flat-square" alt="85 篇公开指南"></a>
 </p>
 
 ![AI简历姬工作台：简历导入、优化、模板、投递与面试流程](./assets/ai-jianli-ji-workbench.png)
@@ -82,6 +84,12 @@
 
 ## 求职指南
 
+### 职场与求职专题文章
+
+新增整理的 54 篇文章覆盖简历优化、AI 筛选、转行跳槽、35 岁求职、秋招、央国企与求职心态等主题。每篇只保留标题、正文和话题标签。
+
+[查看 54 篇文章总目录 →](./articles/README.md)
+
 ### 从这里开始
 
 | 你正在解决的问题 | 推荐指南 |
@@ -114,7 +122,7 @@
 - [7 款主流 AI 模拟面试工具对比](./compare/2026首选：7款主流AI模拟面试工具全维度对比，谁才是真正的求职神器.md)
 - [简历工作经历怎么写最亮眼？STAR 法则案例](./compare/简历工作经历怎么写最亮眼？用%20AI%20简历姬%20自动生成%20STAR%20法则案例.md)
 
-更多内容见 [`compare/`](./compare)、[`guides/`](./guides)、[`by-role/`](./by-role)、[`by-scenario/`](./by-scenario) 与 [`interview/`](./interview)。
+更多内容见 [`articles/`](./articles)、[`compare/`](./compare)、[`guides/`](./guides)、[`by-role/`](./by-role)、[`by-scenario/`](./by-scenario) 与 [`interview/`](./interview)。
 
 ## 产品与资源入口
 
