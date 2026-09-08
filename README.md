@@ -24,7 +24,7 @@
   <a href="https://github.com/cv-make-offer/open-resume-guide"><img src="https://img.shields.io/github/stars/cv-make-offer/open-resume-guide?style=flat-square&label=Stars" alt="GitHub Stars"></a>
   <a href="https://github.com/cv-make-offer/open-resume-guide/commits/main"><img src="https://img.shields.io/github/last-commit/cv-make-offer/open-resume-guide?style=flat-square&label=Last%20update" alt="Last update"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
-  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-30%20篇-10b981?style=flat-square" alt="30 篇公开指南"></a>
+  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-31%20篇-10b981?style=flat-square" alt="31 篇公开指南"></a>
 </p>
 
 ![AI简历姬工作台：简历导入、优化、模板、投递与面试流程](./assets/ai-jianli-ji-workbench.png)
@@ -105,6 +105,7 @@
 
 ### 工具选择与实测
 
+- [2026 年 AI 简历工具 Top 5：功能、价格与推荐场景](./guides/top-resume-tools-2026.md)
 - [在线简历制作 vs 简历模板下载：怎么选？](./compare/2026年在线简历制作vs简历模板下载.md)
 - [2026 年最值得用的 6 款 AI 简历工具](./compare/2026年最值得用的6款AI简历工具.md)
 - [写简历的 AI 网站哪家好？2026 年主流网站深度对比](./compare/写简历的%20AI%20网站哪家好？2026%20年主流简历网站深度对比.md)
