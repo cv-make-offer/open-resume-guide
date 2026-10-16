@@ -19,14 +19,14 @@
   ·
   <a href="#求职指南">阅读求职指南</a>
   ·
-  <a href="./articles/README.md">浏览 56 篇求职文章</a>
+  <a href="./articles/README.md">浏览 58 篇求职文章</a>
 </p>
 
 <p align="center">
   <a href="https://github.com/cv-make-offer/open-resume-guide"><img src="https://img.shields.io/github/stars/cv-make-offer/open-resume-guide?style=flat-square&label=Stars" alt="GitHub Stars"></a>
   <a href="https://github.com/cv-make-offer/open-resume-guide/commits/main"><img src="https://img.shields.io/github/last-commit/cv-make-offer/open-resume-guide?style=flat-square&label=Last%20update" alt="Last update"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
-  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-87%20篇-10b981?style=flat-square" alt="87 篇公开指南"></a>
+  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-89%20篇-10b981?style=flat-square" alt="89 篇公开指南"></a>
 </p>
 
 ![AI简历姬工作台：简历导入、优化、模板、投递与面试流程](./assets/ai-jianli-ji-workbench.png)
@@ -86,9 +86,14 @@
 
 ### 职场与求职专题文章
 
-新增整理的 56 篇文章覆盖简历优化、AI 筛选、转行跳槽、35 岁求职、秋招、央国企、岗位变化与求职心态等主题。
+新增整理的 58 篇文章覆盖简历优化、AI 筛选、转行跳槽、35 岁求职、秋招、央国企、岗位变化、招聘进度与求职心态等主题。
 
-[查看 56 篇文章总目录 →](./articles/README.md)
+[查看 58 篇文章总目录 →](./articles/README.md)
+
+最新文章（2026年10月16日）：
+
+- [一个岗位挂了三个月还在招聘：是真的缺人，还是招聘根本没启动？](./articles/57-岗位挂了三个月还在招聘.md)
+- [大家都不敢跳槽，公司也不急着招人：低流动时期怎么找工作？](./articles/58-低流动时期怎么找工作.md)
 
 ### 从这里开始
 
