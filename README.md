@@ -19,14 +19,14 @@
   ·
   <a href="#求职指南">阅读求职指南</a>
   ·
-  <a href="./articles/README.md">浏览 68 篇求职文章</a>
+  <a href="./articles/README.md">浏览 70 篇求职文章</a>
 </p>
 
 <p align="center">
   <a href="https://github.com/cv-make-offer/open-resume-guide"><img src="https://img.shields.io/github/stars/cv-make-offer/open-resume-guide?style=flat-square&label=Stars" alt="GitHub Stars"></a>
   <a href="https://github.com/cv-make-offer/open-resume-guide/commits/main"><img src="https://img.shields.io/github/last-commit/cv-make-offer/open-resume-guide?style=flat-square&label=Last%20update" alt="Last update"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
-  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-99%20篇-10b981?style=flat-square" alt="99 篇公开指南"></a>
+  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-101%20篇-10b981?style=flat-square" alt="101 篇公开指南"></a>
 </p>
 
 ![AI简历姬工作台：简历导入、优化、模板、投递与面试流程](./assets/ai-jianli-ji-workbench.png)
@@ -86,14 +86,14 @@
 
 ### 职场与求职专题文章
 
-新增整理的 68 篇文章覆盖简历优化、AI 筛选、转行跳槽、35 岁求职、秋招、央国企、岗位变化、经验更新、面试流程、背调隐私、面试作业、试岗判断、面试结果、岗位画像、能力证据、能力迁移、求职漏斗与求职心态等主题。
+新增整理的 70 篇文章覆盖简历优化、AI 筛选、转行跳槽、35 岁求职、秋招、央国企、岗位变化、经验更新、面试流程、背调隐私、面试作业、试岗判断、面试结果、岗位画像、能力证据、能力迁移、求职漏斗、基层岗位、笔试成绩沿用与求职心态等主题。
 
-[查看 68 篇文章总目录 →](./articles/README.md)
+[查看 70 篇文章总目录 →](./articles/README.md)
 
-最新文章（2026年10月21日）：
+最新文章（2026年10月22日）：
 
-- [转行时最重要的不是从零学习，而是找出自己的可迁移能力](./articles/67-转行如何找出可迁移能力.md)
-- [投了很多简历却不知道问题在哪：用求职漏斗定位失败环节](./articles/68-用求职漏斗定位失败环节.md)
+- [基层公共就业服务岗是编制吗？报名之前先看合同和服务期限](./articles/69-基层公共就业服务岗是编制吗.md)
+- [校招笔试成绩能沿用，要不要重新考？先确认这几个限制](./articles/70-校招笔试成绩能沿用要不要重考.md)
 
 ### 从这里开始
 
