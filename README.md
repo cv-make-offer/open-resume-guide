@@ -19,14 +19,14 @@
   ·
   <a href="#求职指南">阅读求职指南</a>
   ·
-  <a href="./articles/README.md">浏览 98 篇求职文章</a>
+  <a href="./articles/README.md">浏览 100 篇求职文章</a>
 </p>
 
 <p align="center">
   <a href="https://github.com/cv-make-offer/open-resume-guide"><img src="https://img.shields.io/github/stars/cv-make-offer/open-resume-guide?style=flat-square&label=Stars" alt="GitHub Stars"></a>
   <a href="https://github.com/cv-make-offer/open-resume-guide/commits/main"><img src="https://img.shields.io/github/last-commit/cv-make-offer/open-resume-guide?style=flat-square&label=Last%20update" alt="Last update"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
-  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-129%20篇-10b981?style=flat-square" alt="129 篇公开指南"></a>
+  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-131%20篇-10b981?style=flat-square" alt="131 篇公开指南"></a>
 </p>
 
 ![AI简历姬工作台：简历导入、优化、模板、投递与面试流程](./assets/ai-jianli-ji-workbench.png)
@@ -86,14 +86,14 @@
 
 ### 职场与求职专题文章
 
-新增整理的 98 篇文章覆盖简历优化、AI 筛选、转行跳槽、35 岁求职、秋招、央国企、岗位变化、经验更新、面试流程、背调隐私、面试作业、试岗判断、面试结果、岗位画像、能力证据、能力迁移、求职漏斗、基层岗位、笔试成绩沿用、校招资格、投递渠道衔接、项目期限、就业见习、照护师认定、管培定岗、专业审查、低空职业入口、校招调剂、跨境工作安排、在职报考证明、面试工具许可、班次响应、校招网签、年限核验、提前实习、测评门槛、跨批次申请、体检组织、网申更正、考试确认、亲属申报、取消改报、求职收费、递补准备、面试站点、复审委托、内推绑定与求职心态等主题。
+新增整理的 100 篇文章覆盖简历优化、AI 筛选、转行跳槽、35 岁求职、秋招、央国企、岗位变化、经验更新、面试流程、背调隐私、面试作业、试岗判断、面试结果、岗位画像、能力证据、能力迁移、求职漏斗、基层岗位、笔试成绩沿用、校招资格、投递渠道衔接、项目期限、就业见习、照护师认定、管培定岗、专业审查、低空职业入口、校招调剂、跨境工作安排、在职报考证明、面试工具许可、班次响应、校招网签、年限核验、提前实习、测评门槛、跨批次申请、体检组织、网申更正、考试确认、亲属申报、取消改报、求职收费、递补准备、面试站点、复审委托、内推绑定、属地居住、最低服务期限与求职心态等主题。
 
-[查看 98 篇文章总目录 →](./articles/README.md)
+[查看 100 篇文章总目录 →](./articles/README.md)
 
-最新文章（2026年11月7日）：
+最新文章（2026年11月8日）：
 
-- [资格复审去不了，可以委托别人吗？先查许可，再交接材料](./articles/97-资格复审去不了可以委托别人吗.md)
-- [已经网申了，还能补内推吗？先查渠道绑定发生在哪一步](./articles/98-已经网申了还能补内推吗.md)
+- [不是本地户籍，还能报名社区岗位吗？先查居住路径和证明口径](./articles/99-不是本地户籍还能报名社区岗位吗.md)
+- [招聘要求最低服务三年，还值得报吗？先核对未来流动安排](./articles/100-招聘要求最低服务三年还值得报吗.md)
 
 ### 从这里开始
 
