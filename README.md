@@ -19,14 +19,14 @@
   ·
   <a href="#求职指南">阅读求职指南</a>
   ·
-  <a href="./articles/README.md">浏览 106 篇求职文章</a>
+  <a href="./articles/README.md">浏览 108 篇求职文章</a>
 </p>
 
 <p align="center">
   <a href="https://github.com/cv-make-offer/open-resume-guide"><img src="https://img.shields.io/github/stars/cv-make-offer/open-resume-guide?style=flat-square&label=Stars" alt="GitHub Stars"></a>
   <a href="https://github.com/cv-make-offer/open-resume-guide/commits/main"><img src="https://img.shields.io/github/last-commit/cv-make-offer/open-resume-guide?style=flat-square&label=Last%20update" alt="Last update"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
-  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-137%20篇-10b981?style=flat-square" alt="137 篇公开指南"></a>
+  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-139%20篇-10b981?style=flat-square" alt="139 篇公开指南"></a>
 </p>
 
 ![AI简历姬工作台：简历导入、优化、模板、投递与面试流程](./assets/ai-jianli-ji-workbench.png)
@@ -86,14 +86,14 @@
 
 ### 职场与求职专题文章
 
-新增整理的 106 篇文章覆盖简历优化、AI 筛选、转行跳槽、35 岁求职、秋招、央国企、岗位变化、经验更新、面试流程、背调隐私、面试作业、试岗判断、面试结果、岗位画像、能力证据、能力迁移、求职漏斗、基层岗位、笔试成绩沿用、校招资格、投递渠道衔接、项目期限、就业见习、照护师认定、管培定岗、专业审查、低空职业入口、校招调剂、跨境工作安排、在职报考证明、面试工具许可、班次响应、校招网签、年限核验、提前实习、测评门槛、跨批次申请、体检组织、网申更正、考试确认、亲属申报、取消改报、求职收费、递补准备、面试站点、复审委托、内推绑定、属地居住、最低服务期限、考试费减免、群面协作、年龄边界、面试改期、办公实操、面试报销与求职心态等主题。
+新增整理的 108 篇文章覆盖简历优化、AI 筛选、转行跳槽、35 岁求职、秋招、央国企、岗位变化、经验更新、面试流程、背调隐私、面试作业、试岗判断、面试结果、岗位画像、能力证据、能力迁移、求职漏斗、基层岗位、笔试成绩沿用、校招资格、投递渠道衔接、项目期限、就业见习、照护师认定、管培定岗、专业审查、低空职业入口、校招调剂、跨境工作安排、在职报考证明、面试工具许可、班次响应、校招网签、年限核验、提前实习、测评门槛、跨批次申请、体检组织、网申更正、考试确认、亲属申报、取消改报、求职收费、递补准备、面试站点、复审委托、内推绑定、属地居住、最低服务期限、考试费减免、群面协作、年龄边界、面试改期、办公实操、面试报销、政策性加分、混合办公与求职心态等主题。
 
-[查看 106 篇文章总目录 →](./articles/README.md)
+[查看 108 篇文章总目录 →](./articles/README.md)
 
-最新文章（2026年11月11日）：
+最新文章（2026年11月12日）：
 
-- [招聘要考WPS实操，怎么准备？把“熟练办公软件”练成三份成品](./articles/105-招聘要考WPS实操怎么准备.md)
-- [异地面试交通费能报销吗？订票前先确认对象、范围和到账条件](./articles/106-异地面试交通费能报销吗.md)
+- [招聘加分可以叠加吗？先看合并规则，再看加在哪一步](./articles/107-招聘加分可以叠加吗.md)
+- [招聘写“混合办公”，就能自己选居家日吗？接Offer前先确认一周安排](./articles/108-混合办公能自己选居家日吗.md)
 
 ### 从这里开始
 
