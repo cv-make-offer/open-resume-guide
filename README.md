@@ -19,14 +19,14 @@
   ·
   <a href="#求职指南">阅读求职指南</a>
   ·
-  <a href="./articles/README.md">浏览 110 篇求职文章</a>
+  <a href="./articles/README.md">浏览 112 篇求职文章</a>
 </p>
 
 <p align="center">
   <a href="https://github.com/cv-make-offer/open-resume-guide"><img src="https://img.shields.io/github/stars/cv-make-offer/open-resume-guide?style=flat-square&label=Stars" alt="GitHub Stars"></a>
   <a href="https://github.com/cv-make-offer/open-resume-guide/commits/main"><img src="https://img.shields.io/github/last-commit/cv-make-offer/open-resume-guide?style=flat-square&label=Last%20update" alt="Last update"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
-  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-141%20篇-10b981?style=flat-square" alt="141 篇公开指南"></a>
+  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-143%20篇-10b981?style=flat-square" alt="143 篇公开指南"></a>
 </p>
 
 ![AI简历姬工作台：简历导入、优化、模板、投递与面试流程](./assets/ai-jianli-ji-workbench.png)
@@ -86,14 +86,14 @@
 
 ### 职场与求职专题文章
 
-新增整理的 110 篇文章覆盖简历优化、AI 筛选、转行跳槽、35 岁求职、秋招、央国企、岗位变化、经验更新、面试流程、背调隐私、面试作业、试岗判断、面试结果、岗位画像、能力证据、能力迁移、求职漏斗、基层岗位、笔试成绩沿用、校招资格、投递渠道衔接、项目期限、就业见习、照护师认定、管培定岗、专业审查、低空职业入口、校招调剂、跨境工作安排、在职报考证明、面试工具许可、班次响应、校招网签、年限核验、提前实习、测评门槛、跨批次申请、体检组织、网申更正、考试确认、亲属申报、取消改报、求职收费、递补准备、面试站点、复审委托、内推绑定、属地居住、最低服务期限、考试费减免、群面协作、年龄边界、面试改期、办公实操、面试报销、政策性加分、混合办公、成绩复查、外语替代与求职心态等主题。
+新增整理的 112 篇文章覆盖简历优化、AI 筛选、转行跳槽、35 岁求职、秋招、央国企、岗位变化、经验更新、面试流程、背调隐私、面试作业、试岗判断、面试结果、岗位画像、能力证据、能力迁移、求职漏斗、基层岗位、笔试成绩沿用、校招资格、投递渠道衔接、项目期限、就业见习、照护师认定、管培定岗、专业审查、低空职业入口、校招调剂、跨境工作安排、在职报考证明、面试工具许可、班次响应、校招网签、年限核验、提前实习、测评门槛、跨批次申请、体检组织、网申更正、考试确认、亲属申报、取消改报、求职收费、递补准备、面试站点、复审委托、内推绑定、属地居住、最低服务期限、考试费减免、群面协作、年龄边界、面试改期、办公实操、面试报销、政策性加分、混合办公、成绩复查、外语替代、复审补件、员工宿舍与求职心态等主题。
 
-[查看 110 篇文章总目录 →](./articles/README.md)
+[查看 112 篇文章总目录 →](./articles/README.md)
 
-最新文章（2026年11月13日）：
+最新文章（2026年11月14日）：
 
-- [笔试成绩有疑问，可以要求重新评分吗？先查复查范围与申请时窗](./articles/109-笔试成绩有疑问可以重新评分吗.md)
-- [没有六级，可以用雅思或托福投校招吗？先核对本岗位的替代条件](./articles/110-没有六级可以用雅思托福投校招吗.md)
+- [复审材料不齐，可以晚几天补吗？先分清首轮上传与再次补全](./articles/111-复审材料不齐可以晚几天补吗.md)
+- [招聘写“提供宿舍”，就不用租房了吗？接Offer前先确认能否实际入住](./articles/112-招聘提供宿舍就不用租房了吗.md)
 
 ### 从这里开始
 
