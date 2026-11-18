@@ -19,14 +19,14 @@
   ·
   <a href="#求职指南">阅读求职指南</a>
   ·
-  <a href="./articles/README.md">浏览 120 篇求职文章</a>
+  <a href="./articles/README.md">浏览 122 篇求职文章</a>
 </p>
 
 <p align="center">
   <a href="https://github.com/cv-make-offer/open-resume-guide"><img src="https://img.shields.io/github/stars/cv-make-offer/open-resume-guide?style=flat-square&label=Stars" alt="GitHub Stars"></a>
   <a href="https://github.com/cv-make-offer/open-resume-guide/commits/main"><img src="https://img.shields.io/github/last-commit/cv-make-offer/open-resume-guide?style=flat-square&label=Last%20update" alt="Last update"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
-  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-151%20篇-10b981?style=flat-square" alt="151 篇公开指南"></a>
+  <a href="#求职指南"><img src="https://img.shields.io/badge/公开指南-153%20篇-10b981?style=flat-square" alt="153 篇公开指南"></a>
 </p>
 
 ![AI简历姬工作台：简历导入、优化、模板、投递与面试流程](./assets/ai-jianli-ji-workbench.png)
@@ -86,14 +86,14 @@
 
 ### 职场与求职专题文章
 
-新增整理的 120 篇文章覆盖简历优化、AI 筛选、转行跳槽、35 岁求职、秋招、央国企、岗位变化、经验更新、面试流程、背调隐私、面试作业、试岗判断、面试结果、岗位画像、能力证据、能力迁移、求职漏斗、基层岗位、笔试成绩沿用、校招资格、投递渠道衔接、项目期限、就业见习、照护师认定、管培定岗、专业审查、低空职业入口、校招调剂、跨境工作安排、在职报考证明、面试工具许可、班次响应、校招网签、年限核验、提前实习、测评门槛、跨批次申请、体检组织、网申更正、考试确认、亲属申报、取消改报、求职收费、递补准备、面试站点、复审委托、内推绑定、属地居住、最低服务期限、考试费减免、群面协作、年龄边界、面试改期、办公实操、面试报销、政策性加分、混合办公、成绩复查、外语替代、复审补件、员工宿舍、考场证件、视频故障、初审申诉、一次性奖金、用工主体、匿名答题、学历阶段、陈述视频与求职心态等主题。
+新增整理的 122 篇文章覆盖简历优化、AI 筛选、转行跳槽、35 岁求职、秋招、央国企、岗位变化、经验更新、面试流程、背调隐私、面试作业、试岗判断、面试结果、岗位画像、能力证据、能力迁移、求职漏斗、基层岗位、笔试成绩沿用、校招资格、投递渠道衔接、项目期限、就业见习、照护师认定、管培定岗、专业审查、低空职业入口、校招调剂、跨境工作安排、在职报考证明、面试工具许可、班次响应、校招网签、年限核验、提前实习、测评门槛、跨批次申请、体检组织、网申更正、考试确认、亲属申报、取消改报、求职收费、递补准备、面试站点、复审委托、内推绑定、属地居住、最低服务期限、考试费减免、群面协作、年龄边界、面试改期、办公实操、面试报销、政策性加分、混合办公、成绩复查、外语替代、复审补件、员工宿舍、考场证件、视频故障、初审申诉、一次性奖金、用工主体、匿名答题、学历阶段、陈述视频、学生任职、提成结算与求职心态等主题。
 
-[查看 120 篇文章总目录 →](./articles/README.md)
+[查看 122 篇文章总目录 →](./articles/README.md)
 
-最新文章（2026年11月18日）：
+最新文章（2026年11月19日）：
 
-- [本科专业符合，能用本科学历报岗吗？先确认招聘采用哪个学历阶段](./articles/119-本科专业符合能用本科学历报岗吗.md)
-- [招聘要求先交陈述视频，怎么准备？先确认规格，再完成内容与文件核验](./articles/120-招聘要求先交陈述视频怎么准备.md)
+- [招聘要求“主要学生干部经历”，当过副职也算吗？先对照组织层级和职务范围](./articles/121-主要学生干部经历怎么认定.md)
+- [销售提成按签单还是回款算？接Offer前问清一笔订单的结算过程](./articles/122-销售提成按签单还是回款算.md)
 
 ### 从这里开始
 
